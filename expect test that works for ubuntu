@@ -1,0 +1,18 @@
+#!/usr/bin/perl
+
+use Expect;
+
+# command set up here
+#
+#
+
+# this space reserverd for your comments
+#
+#
+
+#my $exp = Expect->spawn("command info here -- for instance ssh user@machine.corp.com")
+
+#set up logging info
+#
+#
+#$exp->log_file("[logfile name here]", "w")
